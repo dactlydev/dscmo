@@ -1,4 +1,5 @@
 # dscmo
 Hi, i'm **dscmo**, also know as **Dactare** or **dac.**
-
-## what i 
+» 🌎 - **From Latina America, Brazil.**
+» 🤖 - **Discord Apps Developer.**
+» ⌨️ - **Programming BDScript, and learning Python.**
